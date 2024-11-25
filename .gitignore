@@ -1,0 +1,10 @@
+#ignorar archivo 
+.DS_Store
+configuracion_local.sh
+
+#ignorar carpeta o directorio
+top_secret/
+
+
+#ignorar todos los archivos con las siguientes extensiones
+*.xsd
